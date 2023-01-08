@@ -1,0 +1,1 @@
+### pyinstaller index.py -n yt -F --hiddenimport pytube --hiddenimport sys --hiddenimport os
